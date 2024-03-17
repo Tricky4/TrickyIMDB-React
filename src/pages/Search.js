@@ -13,7 +13,7 @@ export const Search = ({apiPath}) => {
     <main>
       <section className="py-7">
         <p className="text-3xl text-gray-700 dark:text-white">
-          { movies.length === 0 ? `No resule found for "${queryTerm}"` : `Search result for "${queryTerm}"`}
+          { movies.length === 0 ? `No result found for "${queryTerm}"` : `Search result for "${queryTerm}"`}
         </p>
       </section>
       <section className="max-w-7xl mx-auto py-7">
