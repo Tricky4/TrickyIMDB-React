@@ -1,4 +1,4 @@
-api-key:55e5eb1bf90ef9feb7651296eee133f0
+api-key:<API-KEY>
 base-url: https://api.themoviedb.org/3
 
 Individual:
